@@ -10,7 +10,6 @@ This is a Python-based command-line tool that securely encrypts and decrypts fil
 
 ## 🚀 Usage
 
-```bash
 # Encrypt a file
 python main.py --encrypt yourfile.txt --password yourPassword123
 
